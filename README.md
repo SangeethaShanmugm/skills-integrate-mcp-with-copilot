@@ -1,3 +1,7 @@
+# Sample Update
+
+This is a demonstration update to the README file as part of the workflow for the open issue.
+
 # Integrate MCP with Copilot
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
